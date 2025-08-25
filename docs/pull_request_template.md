@@ -1,10 +1,10 @@
 <!-- Filling this template is mandatory -->
 
 **Your checklist for this pull request**
-- [ ] I have committed only those files that are required.
-- [ ] I have tried commit messages concise and reflective of the code committed.
-- [ ] I have used a branch name reflective of the issue.
-- [ ] If there is relavant issue for the PR, I have used `closes #<issue number>` to auto-close the issue once PR is merged.
+- [x] I have committed only those files that are required.
+- [x] I have tried commit messages concise and reflective of the code committed.
+- [x] I have used a branch name reflective of the issue.
+- [x] If there is relavant issue for the PR, I have used `closes #<issue number>` to auto-close the issue once PR is merged.
 
 
 **Detailed description**
